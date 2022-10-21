@@ -2697,3 +2697,11 @@ body {
   background-position: 50% 50%;
   background-size: cover;
 }
+.main-inner {
+  background: #fff;
+  opacity: 0.8;
+}
+.header-inner,
+.sidebar {
+  opacity: 0.8;
+}
